@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'MERN',
-    description: "Full stack web application with membership access and full user profile features.",
+    description: "Full stack web application with membership access and secure user profile features.",
       image: '/images/pace-oregon-state-web-design-graphic.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://heroku.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'REST API',
-    description: "Built and deployed fully featured REST API & CRUD with authentication.",
+    description: "Designed and deployed fully featured REST API & CRUD with email authentication.",
       image: '/images/pace-oregon-state-web-design-graphic.jpg',
       tags: ['Laravel', 'React'],
     source: 'https://heroku.com',
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Found JavaScript frameworks', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Took a break from burnout', },
+  { year: 2010, text: 'Intro To Programming (Secondary School)', },
+  { year: 2015, text: 'Graduated in "Enterprise Web & Mobile Development" with distinction', },
+  { year: 2018, text: 'Started as a freelance developer locally and online', },
+  { year: 2019, text: 'Studying more courses and tutorials to work on projects ', },
+  { year: 2022, text: 'Returned after a break from coding/choice burnout to re-focus', },
 ];
